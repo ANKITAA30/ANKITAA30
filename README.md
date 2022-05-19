@@ -5,20 +5,19 @@
 
 <p align="left"> <a href="https://twitter.com/@ankitakawade" target="blank"><img src="https://img.shields.io/twitter/follow/@ankitakawade?logo=twitter&style=for-the-badge" alt="@ankitakawade" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 - 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **JAVA**
 
 - 👯 I’m looking to collaborate on **Online Educational Website**
 
-- 💬 Ask me about **Web dev related stuff..** <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+- 💬 Ask me about **Web dev related stuff..** 
 
 - 📫 How to reach me **ankitakawade900@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
