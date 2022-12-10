@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **JS**
 
 - 👯 I’m looking to collaborate on **Online Educational Website**
 
